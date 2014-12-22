@@ -1,7 +1,7 @@
 #coding=utf-8
 import urllib,re
 
-meteorlist=['云南省气象台','云南省昆明市气象台']
+meteorlist=['广东省气象台','广东省深圳市气象台']
 alertinfo=[]
 level=[]
 description=[]
